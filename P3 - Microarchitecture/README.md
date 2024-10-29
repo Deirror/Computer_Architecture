@@ -3,7 +3,7 @@
 Complete picture of microarchitectur
 -
 
- <img src="https://github.com/user-attachments/assets/3b642a6c-f360-4d21-939e-96738dce139f" width="450" height="290">
+ <img src="https://github.com/user-attachments/assets/3b642a6c-f360-4d21-939e-96738dce139f" width="450" height="290" align="center">
 
  <img src="https://github.com/user-attachments/assets/e51ce635-3c3e-4a82-a662-412efce90960" width="450" height="290">
 
