@@ -20,4 +20,7 @@ Basic Logical Elements
 
 Some Circuits
 -
-Link to schemes(pages 15 - 35)- [here](https://learn.fmi.uni-sofia.bg/pluginfile.php/520036/mod_resource/content/2/L02-HardwareElements.pdf)
+
+- Link to schemes(pages 15 - 35) - [here](https://learn.fmi.uni-sofia.bg/pluginfile.php/520036/mod_resource/content/2/L02-HardwareElements.pdf)
+- Memory(SR Latch), Clocked SR/D Latch, D Flip Flop
+  - Main Purpose -> Made to save 1 bit info
