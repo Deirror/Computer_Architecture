@@ -43,6 +43,11 @@ ISA Demo
 CISC And RISC Differences
 -
 
+- CISC -> Complex Instruction Set Computer
+  - MUL 2:3 5:2 (One Line, One Instruction, Little Memory, Slow)
+- RISC -> Reduced Instruction Set Computer
+  - ADD R1, R2 | SUB R2, 1 | ... | ADD R5, R2 (Multiple Lines, Many Instructions, Lot Of Memory, Fast)
+
 SIMD(Single instruction, multiple data)
 -
 
