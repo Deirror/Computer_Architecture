@@ -29,7 +29,7 @@ ISA Demo
 
 - Basically Assembly Code
 
-| Line | Command | Variables |
+   - | Line | Command | Variables |
 | --- | --- | --- |
 | 0000 | MOV | #5, R03 |
 | 0006 | MOV | R03, R01|
@@ -40,4 +40,4 @@ ISA Demo
 
 - Then the above code transforms into machine code
 
-B8 22 11 00 | AF 0C | 31 FA | ...
+   - B8 22 11 00 | AF 0C | 31 FA | ...
