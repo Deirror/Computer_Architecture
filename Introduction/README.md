@@ -29,7 +29,7 @@ ISA Demo
 
 - Assembly code:
 | Line | Command | Variables |
-| | |
+| --- | --- | --- |
 | 0000 | MOV | #5, R03 |
 | 0006 | MOV | R03, R01|
 | 0011 | MOV | #0, R04|
