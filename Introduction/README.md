@@ -13,3 +13,9 @@ Abstraction Layers
 - Circuits
 - Devices
 - Physics
+
+Performance units
+-
+
+- MIPS(Million Instructions Per Second)
+- FLOPS(Floating Point Operations Per Second)
