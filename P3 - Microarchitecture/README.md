@@ -1,6 +1,6 @@
 # Microarchitecture
 
-Complete picture of microarchitectur
+Complete picture of microarchitecture
 -
 
  <img src="https://github.com/user-attachments/assets/3b642a6c-f360-4d21-939e-96738dce139f" width="450" height="290">
