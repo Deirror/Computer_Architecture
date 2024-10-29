@@ -38,6 +38,4 @@ ISA Demo
 | 0022 | MOV | #5, R04|
 | 0028 | CMP | R04, R02|
 
-- Then the above code transforms into machine code
-
-   - B8 22 11 00 | AF 0C | 31 FA | ...
+- Then the above code transforms into machine code ->  B8 22 11 00 | AF 0C | 31 FA | ...
