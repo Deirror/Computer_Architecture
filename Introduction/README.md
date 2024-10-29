@@ -19,3 +19,8 @@ Performance units
 
 - MIPS(Million Instructions Per Second)
 - FLOPS(Floating Point Operations Per Second)
+
+Organization of CPU
+-
+![Screenshot (624)](https://github.com/user-attachments/assets/b7b8be43-8a10-489d-9b5b-ece38734ab3b)
+
