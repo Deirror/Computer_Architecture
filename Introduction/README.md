@@ -22,4 +22,4 @@ Performance units
 
 Organization of CPU
 -
- <img src="https://github.com/user-attachments/assets/b7b8be43-8a10-489d-9b5b-ece38734ab3b" width="500" height="290">
+ <img src="https://github.com/user-attachments/assets/b7b8be43-8a10-489d-9b5b-ece38734ab3b" width="450" height="290">
