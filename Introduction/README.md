@@ -27,7 +27,7 @@ Organization of CPU
 ISA Demo
 -
 
-- Assembly code:
+- Basically Assembly Code:
 
 | Line | Command | Variables |
 | --- | --- | --- |
